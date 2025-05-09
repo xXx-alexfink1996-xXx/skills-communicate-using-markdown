@@ -2,6 +2,9 @@
 ## The Sub Header
 ###### And So On
 
+- [x] Make a task list in Markdown.
+- [ ] Think of what to put in the second slot.
+
 ``` c
 u32 should_strengthen_gravity_for_jump_ascent(struct MarioState *m) {
     if (!(m->flags & MARIO_JUMPING)) {
